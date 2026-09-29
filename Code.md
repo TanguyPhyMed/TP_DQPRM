@@ -19,8 +19,5 @@ print ("Supérieur, x > y ", x>y)
 print ("Inférieur ou égale, x <= y ", x<= y)
 
 
-# Hello world
+#Hello world
 print("Hello World")
-
-## Fonctionne ?
-print("Ca fonctionne")
