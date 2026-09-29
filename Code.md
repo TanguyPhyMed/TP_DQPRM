@@ -16,6 +16,7 @@ print ("Inférieur, x < y ", x<y)
 print ("Supérieur, x > y ", x>y)
 
 # Inférieur ou égale
+<<<<<<< HEAD
 print ("Inférieur ou égale, x <= y ", x<= y)
 
 
@@ -24,3 +25,6 @@ print("Hello World")
 
 #Dacia
 print("Sandero)
+=======
+print ("Inférieur ou égale, x <= y ", x<= y)
+>>>>>>> parent of b7de280 (Ajout hello world)
